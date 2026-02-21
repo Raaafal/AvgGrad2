@@ -20,7 +20,7 @@ If you have an NVIDIA GPU, first install the versions of torch, torchvision, and
 
 ```
 
-&nbsp;   python -m pip install --no-cache-dir --force-reinstall torch==2.1.0 torchvision==0.16.0 torchtext==0.16.0 --index-url https://download.pytorch.org/whl/cu118
+python -m pip install --no-cache-dir --force-reinstall torch==2.1.0 torchvision==0.16.0 torchtext==0.16.0 --index-url https://download.pytorch.org/whl/cu118
 
 ```
 
@@ -32,7 +32,7 @@ If you have an NVIDIA GPU, first install the versions of torch, torchvision, and
 
 ```
 
-&nbsp;   python -m pip install -r requirements\_all.txt
+python -m pip install -r requirements\_all.txt
 
 ```
 
@@ -40,7 +40,7 @@ If you have an NVIDIA GPU, first install the versions of torch, torchvision, and
 
 ```
 
-&nbsp;   python -m pip install -r requirements\_without\_torch\_torchvision\_torchtext.txt
+python -m pip install -r requirements\_without\_torch\_torchvision\_torchtext.txt
 
 ```
 
@@ -54,7 +54,7 @@ The primary entry point for the project is main.py. Once configured, execute the
 
 ```
 
-&nbsp;   python main.py
+python main.py
 
 ```
 
@@ -72,55 +72,55 @@ Open main.py in your text editor and modify the following variables to set up yo
 
 \* Model Selection (model\_nr):
 
-&nbsp; - 6 = Model A (Supports: MNIST, Fashion MNIST)
+ - 6 = Model A (Supports: MNIST, Fashion MNIST)
 
-&nbsp; - 9 = Model B (Supports: MNIST, Fashion MNIST)
+ - 9 = Model B (Supports: MNIST, Fashion MNIST)
 
-&nbsp; - 12 = Model C (Supports: IMDb)
+ - 12 = Model C (Supports: IMDb)
 
-&nbsp; - 13 = ResNet-152 (Supports: Imagenet-OOD)
+ - 13 = ResNet-152 (Supports: Imagenet-OOD)
 
-&nbsp; - 14 = ResNet-152-GELU (Supports: Imagenet-OOD)
+ - 14 = ResNet-152-GELU (Supports: Imagenet-OOD)
 
-&nbsp; - 15 = ResNet-152-SiLU (Supports: Imagenet-OOD)
+ - 15 = ResNet-152-SiLU (Supports: Imagenet-OOD)
 
-&nbsp; - 18 = ResNet-152-Sig (Supports: Imagenet-OOD)
+ - 18 = ResNet-152-Sig (Supports: Imagenet-OOD)
 
 
 
 \* Dataset Selection (dataset):
 
-&nbsp; - Set to 'imagenet\_ood', 'mnist', 'fashion\_mnist', or 'imdb'
+ - Set to 'imagenet\_ood', 'mnist', 'fashion\_mnist', or 'imdb'
 
 
 
 \* Gradient Method (method):
 
-&nbsp; - 20 = Standard gradient
+ - 20 = Standard gradient
 
-&nbsp; - 21 = AG-1 variant
+ - 21 = AG-1 variant
 
-&nbsp; - 27 = AG-2 variant
+ - 27 = AG-2 variant
 
-&nbsp; - 33 = AG-3-1 variant
+ - 33 = AG-3-1 variant
 
-&nbsp; - 37 = AG-3 variant
+ - 37 = AG-3 variant
 
 
 
 \* Optimizer Settings:
 
-&nbsp; - Set optimizer\_type to 'SOAP', 'optim.RMSprop', or 'optim.Adam'
+ - Set optimizer\_type to 'SOAP', 'optim.RMSprop', or 'optim.Adam'
 
-&nbsp; - (Note: Modify the optim\_args variable to adjust specific optimizer hyperparameters).
+ - (Note: Modify the optim\_args variable to adjust specific optimizer hyperparameters).
 
 
 
 \* Training Count:
 
-&nbsp; - Set trainings\_same\_model (e.g., 100) to define the total training count. 
+ - Set trainings\_same\_model (e.g., 100) to define the total training count. 
 
-&nbsp; - (Use the trainings\_different\_model variable for hyperparameter searching).
+ - (Use the trainings\_different\_model variable for hyperparameter searching).
 
 
 
@@ -135,4 +135,5 @@ If you specifically want to run the variants marked 'linear', you must also edit
 2\. Locate the variable average\_gradient\_of\_linear\_layers\_enhancement.
 
 3\. Set it to True.
+
 
