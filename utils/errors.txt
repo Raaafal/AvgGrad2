@@ -1,0 +1,109 @@
+python: can't open file 'C:\Users\rafal\Documents\inf\Optimizer\utils\not_existing_file.py': [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test.py", line 6, in <module>
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test.py", line 6, in <module>
+    aa
+    NameErroraa
+: NameError: name 'aa' is not defined
+name 'aa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test.py", line 6, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test.py", line 6, in <module>
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test.py", line 6, in <module>
+        aa    aa
+aaNameError
+
+: NameErrorNameErrorname 'aa' is not defined: : 
+name 'aa' is not defined
+name 'aa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test.py", line 6, in <module>
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test.py", line 6, in <module>
+    aa
+    aaNameError
+: name 'aa' is not defined
+NameError: name 'aa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test\test2.py", line 6, in <module>
+    aa
+NameError: name 'aa' is not defined
+python: can't open file 'C:\Users\rafal\Documents\inf\Optimizer\utils\not_existing_file.py': [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test.py", line 6, in <module>
+    aa
+NameError: name 'aa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test.py", line 6, in <module>
+    aa
+NameError: name 'aa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test.py", line 6, in <module>
+    aa
+NameError: name 'aa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test.py", line 6, in <module>
+    aa
+NameError: name 'aa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test.py", line 6, in <module>
+    aa
+NameError: name 'aa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test.py", line 6, in <module>
+    aa
+NameError: name 'aa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test.py", line 6, in <module>
+    aa
+NameError: name 'aa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test\test2.py", line 6, in <module>
+    aa
+NameError: name 'aa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test\test2.py", line 6, in <module>
+    aa
+NameError: name 'aa' is not defined
+failed to start process: test\test_new - Copy (3).py
+
+al\Documents\inf\Optimizer\utils\test\test_new - Copy (3).py", line 5, in <module>
+    sleep(3)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test\test2.py", line 6, in <module>
+    aa
+NameError: name 'aa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test\test2.py", line 6, in <module>
+    aa
+NameError: name 'aa' is not defined
+python: can't open file 'C:\Users\rafal\Documents\inf\Optimizer\utils\test\test_new - Copy (4).py': [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test\test2.py", line 6, in <module>
+    aa
+NameError: name 'aa' is not defined
+python: can't open file 'C:\Users\rafal\Documents\inf\Optimizer\utils\test\test_new - Copy (3).py': [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test\test2.py", line 6, in <module>
+    aa
+NameError: name 'aa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test\test2.py", line 6, in <module>
+    aa
+NameError: name 'aa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test\test2.py", line 6, in <module>
+    aa
+NameError: name 'aa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test\test2.py", line 6, in <module>
+    aa
+NameError: name 'aa' is not defined
+Traceback (most recent call last):
+  File "C:\Users\rafal\Documents\inf\Optimizer\utils\test\test2.py", line 6, in <module>
+    aa
+NameError: name 'aa' is not defined
